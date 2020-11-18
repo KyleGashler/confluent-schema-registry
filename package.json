@@ -23,7 +23,7 @@
     "format": "yarn lint --fix"
   },
   "dependencies": {
-    "avsc": ">= 5.4.13 < 6",
+    "avsc": "github:KyleGashler/avsc",
     "mappersmith": ">= 2.30.1 < 3"
   },
   "devDependencies": {
